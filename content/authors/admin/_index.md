@@ -14,7 +14,7 @@ organizations:
   url: https://www.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest is in software testing, analysis and related fields.
 
 # Interests to show in About widget
 interests:
