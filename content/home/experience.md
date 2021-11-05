@@ -34,6 +34,15 @@ experience:
         
         * Software Analysing
         * Software Testing
+  
+  - title: Front-end Development Inern
+    company: Ant Group
+    company_url: 'https://www.antgroup.com'
+    company_logo: ant-group-logo
+    location: Wuhan
+    date_start: '2021-07-15'
+    date_end: '2021-09-03'
+    description: Participate in front-end and BFF development.
         
   - title: Undergraduate Student
     company: Wuhan University
