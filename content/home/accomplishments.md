@@ -23,30 +23,60 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+# - certificate_url: https://www.coursera.org
+#   date_end: ""
+#   date_start: "2021-01-25"
+#   description: ""
+#   organization: Coursera
+#   organization_url: https://www.coursera.org
+#   title: Neural Networks and Deep Learning
+#   url: ""
+# - certificate_url: https://www.edx.org
+#   date_end: ""
+#   date_start: "2021-01-01"
+#   description: Formulated informed blockchain models, hypotheses, and use cases.
+#   organization: edX
+#   organization_url: https://www.edx.org
+#   title: Blockchain Fundamentals
+#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+# - certificate_url: https://www.datacamp.com
+#   date_end: "2020-12-21"
+#   date_start: "2020-07-01"
+#   description: ""
+#   organization: DataCamp
+#   organization_url: https://www.datacamp.com
+#   title: 'Object-Oriented Programming in R'
+#   url: ""
+  - date_end: ""
+    date_start: "2021-10-01"
+    description: ""
+    organization: "Ministry of Education, China"
+    title: 'National Scholarship'
+  - date_end: ""
+    date_start: "2021-10-01"
+    description: ""
+    organization: "Wuhan University, China"
+    title: 'First Prize Sholarship'
+  - date_end: ""
+    date_start: "2021-05-29"
+    description: ""
+    organization: "中国人民共和国人力资源和社会保障部"
+    title: '计算机技术与软件专业技术资格 - 软件设计师中级'
+  - date_end: ""
+    date_start: "2021-04-01"
+    description: ""
+    organization: "Consortium for Mathematics and Its Application, America"
+    title: 'Mathematical Contest in Modeling, Finalist Winner'
+  - date_end: ""
+    date_start: "2020-11-01"
+    description: ""
+    organization: "蓝桥杯全国软件和信息技术专业人才大赛组织委员会"
+    title: '第十一届蓝桥杯大赛软件类国家三等奖'
+  - date_end: ""
+    date_start: "2020-08-01"
+    description: ""
+    organization: "中国大学生服务外包创新创业大赛组委会"
+    title: '第十一届中国大学生服务外包创新创业大赛国家三等奖'
 
 design:
   columns: '2' 

@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yang Feng
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate in Software Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Wuhan University
+  url: https://www.whu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+- Software Testing
+- Software Analysis
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# - Computational Linguistics
+# - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  # - course: PhD in Artificial Intelligence
+  #   institution: Stanford University
+  #   year: 2012
+  - course: MS in Software Engineering
+    institution: Wuhan University
+    year: 2025 (expected)
+  - course: BSc in Software Engineering
+    institution: Wuhan University
+    year: 2022 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: 'mailto:yangfeng@whu.edu.cn'
+- icon: blog
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://blog.maples31.com/blog/
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Maple-pro
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/feng-yang-4b8691207/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +75,12 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I an currently a four-year undergraduate student at [School of Computer Science](http://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My major is Software Engineering.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+After graduating, I will join the [CSTAR](http://cstar.whu.edu.cn/cn/index.html) of the Department of Computer Science at the Wuhan University as an incoming postgraduate in 2022 Fall advised by Prof. [Jifeng Xuan](http://www.jifeng-xuan.com/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research interest is in **software testing**, **analysis** and related fields.
+
+Here is my [blog](https://blog.maples31.com/blog/).
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/YangFeng_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
