@@ -1,3 +1,5 @@
+> Remember to delete `<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>` in `public/index.html`
+
 ```bash
 # Reference: https://wowchemy.com/docs/hugo-tutorials/deployment/
 
