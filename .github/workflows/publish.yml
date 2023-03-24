@@ -26,11 +26,13 @@ jobs:
       - name: Checkout Repository branch
         uses: actions/checkout@v3
 
-      - name: Install go
-        run: apt install golang
+      - name: Setup go
+        uses: actions/setup-go@v4
 
-      - name: Install hugo
-        run: apt install hugo
+      - name: Setup hugo
+        run: peaceiris/actions-hugo@v2
+        with:
+            hugo-version: "0.87.0"
 
       - name: Run hugo
         run: hugo

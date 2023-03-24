@@ -77,7 +77,7 @@ highlight_name: true
 
 I an currently a first-year postgraduate undergraduate student at [School of Computer Science](http://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My major is Software Engineering.
 
-After graduating, I will join the [CSTAR](http://cstar.whu.edu.cn/cn/index.html) of the Department of Computer Science at the Wuhan University as an incoming postgraduate in 2022 Fall advised by Prof. [Jifeng Xuan](http://www.jifeng-xuan.com/).
+I have joined the [CSTAR](http://cstar.whu.edu.cn/cn/index.html) of the Department of Computer Science at the Wuhan University as an incoming postgraduate in 2022 Fall advised by Prof. [Jifeng Xuan](http://www.jifeng-xuan.com/).
 
 My research interest is in **software testing**, **analysis** and related fields.
 
