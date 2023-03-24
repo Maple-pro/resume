@@ -39,12 +39,14 @@ jobs:
         run: hugo
       
       - name: Setup aliyun oss
-        uses: manyuanrong/setup-ossutil@v2.0
+        uses: manyuanrong/setup-ossutil@master
         with:
             endpoint: oss-cn-hongkong.aliyuncs.com
             access-key-id: ${{ secrets.OSS_KEY_ID }}
             access-key-secret: ${{ secrets.OSS_KEY_SECRET }}
-      - run: ossutil cp -rf public oss://resume-maples31/
+
+      - name: Copy files to aliyun
+        run: ossutil cp -rf public oss://resume-maples31/
       
 
       # - name: Get changed files
