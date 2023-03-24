@@ -3,8 +3,13 @@
 ```bash
 # Reference: https://wowchemy.com/docs/hugo-tutorials/deployment/
 
+# install go
+
+# install hugo: https://gohugo.io/installation/windows/
+choco install hugo
+
 # preview the website
-hugo server --disableFastRender --i18n-warnings
+hugo server
 
 # upload the website's source file to Github
 git add .
