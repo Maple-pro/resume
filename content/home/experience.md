@@ -30,7 +30,7 @@ experience:
     date_start: '2021-10-01'
     date_end: ''
     description: |2-
-        focus on:
+        Focus on:
         
         * Software Analysing
         * Software Testing

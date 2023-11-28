@@ -32,10 +32,10 @@ education:
   #   year: 2012
   - course: MS in Software Engineering
     institution: Wuhan University
-    year: 2025 (expected)
+    year: 2025
   - course: BSc in Software Engineering
     institution: Wuhan University
-    year: 2022 (expected)
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,12 +64,12 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume-20231127-backend.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yangfeng@whu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -83,4 +83,4 @@ My research interest is in **software testing**, **analysis** and related fields
 
 Here is my [blog](https://blog.maples31.com/blog/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/YangFeng_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume-20231127-backend.pdf" "newtab" >}}resumé{{< /staticref >}}.
