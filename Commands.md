@@ -14,14 +14,8 @@ hugo server
 # upload the website's source file to Github
 git add .
 git commit -m "Commit message"
-git push
+git push # GitHub workflow will automatically generate the HTML files and upload them to OSS
 
 # generate the website's HTML code into public folder
 hugo
-
-# upload the public submodule to Github
-cd public
-git add .
-git commit -m "Commit message"
-git push
 ```
